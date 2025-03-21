@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 11 Mar 2025 20:25:47 at https://admin.pixelstrap.net/zono/template/knowledgebase.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://admin.pixelstrap.net/zono/template/knowledgebase.html -O1 "C:\My Web Sites\Dashboard Bootstrap HTML Template" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:30:26	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/template/FAQ.html (from https://admin.pixelstrap.net/zono/template/knowledgebase.html)
+20:30:26	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/template/CK editor.html (from https://admin.pixelstrap.net/zono/template/knowledgebase.html)
+20:30:26	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/template/support-ticket (from https://admin.pixelstrap.net/zono/template/knowledgebase.html)
+20:30:26	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/vendors/ajax-loader.gif (from https://admin.pixelstrap.net/zono/assets/css/vendors/slick.css)
+20:30:26	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/vendors/fonts/slick.eot (from https://admin.pixelstrap.net/zono/assets/css/vendors/slick.css)
+20:30:26	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/vendors/fonts/slick.eot? (from https://admin.pixelstrap.net/zono/assets/css/vendors/slick.css)
+20:30:26	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/vendors/fonts/slick.woff (from https://admin.pixelstrap.net/zono/assets/css/vendors/slick.css)
+20:30:26	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/vendors/fonts/slick.ttf (from https://admin.pixelstrap.net/zono/assets/css/vendors/slick.css)
+20:30:26	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/vendors/fonts/slick.svg (from https://admin.pixelstrap.net/zono/assets/css/vendors/slick.css)
+20:31:18	Warning: 	Retry after error -2 (Receive Time Out) at link https://admin.pixelstrap.net/zono/assets/css/images/social-image.png (from https://admin.pixelstrap.net/zono/assets/css/style.css)
+20:31:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.net/zono/assets/js/touchspin/vendors.min.js (from https://admin.pixelstrap.net/zono/template/cart.html)
+20:31:21	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/template/sample.pdf (from https://admin.pixelstrap.net/zono/template/datatable-basic-init.html)
+20:31:23	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/template/cropped.jpg (from https://admin.pixelstrap.net/zono/template/image-cropper.html)
+20:31:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.net/zono/assets/images/landing/application/2.jpg (from https://admin.pixelstrap.net/zono/template/landing-page.html)
+20:31:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/vendors/preloader.gif (from https://admin.pixelstrap.net/zono/assets/css/vendors/photoswipe.css)
+20:31:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/vendors/dropzone-spritemap.png (from https://admin.pixelstrap.net/zono/assets/css/vendors/dropzone.css)
+20:31:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/img/flags.png (from https://admin.pixelstrap.net/zono/assets/css/vendors/intltelinput.min.css)
+20:31:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/img/flags@2x.png (from https://admin.pixelstrap.net/zono/assets/css/vendors/intltelinput.min.css)
+20:31:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/vendors/${file-1x} (from https://admin.pixelstrap.net/zono/assets/css/vendors/rating.css)
+20:31:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/vendors/${file-2x} (from https://admin.pixelstrap.net/zono/assets/css/vendors/rating.css)
+20:31:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/images/tree/32px.png (from https://admin.pixelstrap.net/zono/assets/css/vendors/tree.css)
+20:31:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/images/tree/40px.png (from https://admin.pixelstrap.net/zono/assets/css/vendors/tree.css)
+20:31:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/images/icon-tree.png (from https://admin.pixelstrap.net/zono/assets/css/vendors/tree.css)
+20:31:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/images/tree-1.png (from https://admin.pixelstrap.net/zono/assets/css/vendors/tree.css)
+20:31:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.net/zono/assets/css/vendors/images/layers.png (from https://admin.pixelstrap.net/zono/assets/css/vendors/leaflet.css)
+20:31:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/vendors/images/layers-2x.png (from https://admin.pixelstrap.net/zono/assets/css/vendors/leaflet.css)
+20:31:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/zono/assets/css/vendors/images/layers.png (from https://admin.pixelstrap.net/zono/assets/css/vendors/leaflet.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 38 seconds : 876 links scanned, 848 files written (143112744 bytes overall), 848 files updated [116225323 bytes received at 343861 bytes/sec], 33604270 bytes transferred using HTTP compression in 451 files, ratio 18%, 21.3 requests per connection
+(23 errors, 4 warnings, 0 messages)
